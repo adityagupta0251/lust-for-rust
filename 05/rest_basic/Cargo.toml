@@ -1,0 +1,11 @@
+[package]
+name = "rest_basic"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+
+[[bin]]
+name = "loops"
+path = "src/loops.rs"
